@@ -16,7 +16,7 @@
   "contract": {
     "description": "合约相关的配置",
     "IVY": {
-      "address": ""
+      "address": "0xC857ae25e2F3c2ae721d59813a15094778738722"
     },
     "IVY_Token": {
       "address": "0x388EE12bB527965C32D6B29C0E81285Dd026F1F8"
